@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Assignment</string>
+<!--    <string name="default_web_client_id">"374181011092-9rei02shvthasagjrqifnj46196kic2g.apps.googleusercontent.com"</string>-->
+    <string name="facebook_app_id">165097532057009</string>
+    <string name="fb_login_protocol_scheme">fb165097532057009</string>
+
+</resources>

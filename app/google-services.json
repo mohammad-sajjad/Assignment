@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "374181011092",
+    "project_id": "adixsoftassignment",
+    "storage_bucket": "adixsoftassignment.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:374181011092:android:7d6fea481cf4bcb5481e81",
+        "android_client_info": {
+          "package_name": "com.assignment"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "374181011092-9rei02shvthasagjrqifnj46196kic2g.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.assignment",
+            "certificate_hash": "21948cd3eead5c03cc596f844c5f4109b4e9ab28"
+          }
+        },
+        {
+          "client_id": "374181011092-gtnabratdvpc5mbnho7nd2npdh7bbdat.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBfUWWXA91s4vulN_7P4-yDKrchYvWZuHQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "374181011092-gtnabratdvpc5mbnho7nd2npdh7bbdat.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
